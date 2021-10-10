@@ -1,4 +1,4 @@
-# Calculator App
+## Calculator App
 Calculator app made with pygame, python
 
 ------------------------------
